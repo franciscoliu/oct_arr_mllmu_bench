@@ -1,4 +1,5 @@
 # Multimodal Large Language Model Unlearning Benchmark (MLLMU-Bench)
+Due to the limit of openreview uploading size, we only upload 200 images in Full Sets for references. The entire Full Set contains 500 fictitious images. We are sorry about this inconvenience. 
 
 ## Benchmark Data Setup
 Due to the size of the dataset, we place the dataset in the supplement file of the submission.
